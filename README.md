@@ -1,2 +1,2 @@
-# BehaviouRecognition
+# BehaviourRecognition
 Emopain dataset
